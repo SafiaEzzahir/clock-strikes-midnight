@@ -1,4 +1,4 @@
-a reverse murder-mystery text adventure where you have to escape before your crimes are uncovered and before MIDNIGHT
+cinderella meets an inspector calls - a reverse murder-mystery text adventure where you have to escape before your crimes are uncovered and before MIDNIGHT
 
 - characters are inspired by cinderella characters
 
@@ -13,6 +13,6 @@ a reverse murder-mystery text adventure where you have to escape before your cri
     - in a castle?
     - must be difficult to escape
 - when is it set?
-    - 1920s? present?
+    - 1920s - inspired by an inspector calls
 
 - time?
