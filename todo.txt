@@ -1,2 +1,4 @@
 - choose colours for each character
 - write the script =D
+- find names for each character
+- make/find a gooooood colour palette
